@@ -1,4 +1,4 @@
-leadsdb
+vizlincdb
 =======
 
-database code for leads tool
+database code for VizLinc data vizualization and analytics tool
